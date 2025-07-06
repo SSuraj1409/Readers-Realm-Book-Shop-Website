@@ -42,42 +42,56 @@ Once reloaded in IE mode, the website should function as intended.
 ## 🖼️ Visual Overview of the Website
 
 <h3>Home page:</h3>  
-The homepage displays a styled list of available books, showcasing data pulled from an XML file and transformed into HTML using XSLT. Each book listing includes the title, author, price, and description with clean formatting and visual consistency.
-
 <div align="center">
-<img src="https://i.imgur.com/your-homepage-screenshot.png" width="80%" alt="Readers Realm Home Page"/>
+<img src="https://i.imgur.com/3bOFR6m.png" width="80%" alt="Readers Realm Home Page"/>
+<img src="https://i.imgur.com/Us1lQMD.png" width="80%" alt="Readers Realm Home Page"/>
+
 </div>
 
 <br/>
 
-<h3>Book Details View:</h3>  
-Each book entry may also link to more detailed information rendered through XSL transformations from XML. The layout maintains consistency and clarity, with styling applied via external CSS.
+<h3>Fiction page:</h3>  
+
 
 <div align="center">
-<img src="https://i.imgur.com/your-book-details-screenshot.png" width="80%" alt="Book Details View"/>
+<img src="https://i.imgur.com/BsBXwpB.png" width="80%" alt="Book Details View"/>
 </div>
 
 <br/>
 
-<h3>XML, XSL, and DTD Files:</h3>  
-This project includes:
-- A well-structured **XML** catalog of books  
-- A corresponding **DTD** file to validate XML structure  
-- An **XSL** file that transforms XML into HTML for display  
-These files work together to simulate a lightweight, data-driven static website.
+<h3>Non Fiction page:</h3>  
 
 <div align="center">
-<img src="https://i.imgur.com/your-xml-xsl-screenshot.png" width="80%" alt="XML & XSL Example"/>
+<img src="https://i.imgur.com/UK7d6Ru.png" width="80%" alt="Book Details View"/>
 </div>
 
----
+<br/>
 
-## 💡 Key Learning Outcomes
+<h3>Comics and manga page:</h3>  
 
-- Practical understanding of **XML data structuring** and **validation with DTD**
-- Application of **XSLT** to transform XML into styled HTML
-- Separation of content (XML), structure (DTD), transformation (XSL), and presentation (CSS)
-- Experience building functional, interactive-feeling static pages without JavaScript
+<div align="center">
+<img src="https://i.imgur.com/QdLPWlF.png" width="80%" alt="Book Details View"/>
+</div>
+
+<br/>
+
+<h3>About us page:</h3>  
+
+<div align="center">
+<img src="https://i.imgur.com/UKTOszN.png" width="80%" alt="Book Details View"/>
+<img src="https://i.imgur.com/06WEFfa.png" width="80%" alt="Book Details View"/>
+</div>
+
+<br/>
+
+<h3>Book info page:</h3>  
+
+<div align="center">
+<img src="https://i.imgur.com/7riV1WZ.png" width="80%" alt="Book Details View"/>
+<img src="https://i.imgur.com/WQCaTte.png" width="80%" alt="Book Details View"/>
+</div>
+
+<br/>
 
 ---
 
