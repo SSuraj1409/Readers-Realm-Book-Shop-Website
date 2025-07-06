@@ -19,6 +19,26 @@ The website displays a catalog of books categorized by genre. Each book entry in
 
 ---
 
+
+### ⚠️ Browser Compatibility Note
+
+> **Important:** This website may not render correctly in modern browsers. It is recommended to view it in **Microsoft Edge using Internet Explorer (IE) mode** for proper functionality.
+
+#### 👉 How to enable IE Mode in Microsoft Edge:
+1. Open **Microsoft Edge**  
+2. Click the **three dots** (top-right corner)  
+3. Select **“Settings”**  
+4. Go to **“Default browser”**  
+5. Enable **“Allow sites to be reloaded in Internet Explorer mode (IE mode)”**  
+6. Restart Edge  
+7. Open any of the HTML files with Microsoft Edge  
+8. Click the **“Reload tab in Internet Explorer mode”** icon in the top-right corner  
+
+Once reloaded in IE mode, the website should function as intended.
+
+---
+
+
 ## 🖼️ Visual Overview of the Website
 
 <h3>Home page:</h3>  
